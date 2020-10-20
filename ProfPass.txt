@@ -1,0 +1,2609 @@
+1
+ZE****
+AÇ****
+20*****53
+BAŞARILI / PASS
+2
+EM****
+AD****
+20*****12
+BAŞARILI / PASS
+3
+TA****
+AD****
+20*****33
+BAŞARISIZ / FAIL
+4
+Dİ****
+AF****
+20*****14
+BAŞARILI / PASS
+5
+AL****
+AK****
+20*****11
+BAŞARILI / PASS
+6
+AN****
+AK****
+20*****56
+BAŞARISIZ / FAIL
+7
+AR****
+AK****
+20*****33
+BAŞARILI / PASS
+8
+AR****
+AK****
+20*****61
+BAŞARISIZ / FAIL
+9
+AY**** ZE****
+AK****
+20*****10
+BAŞARISIZ / FAIL
+10
+BA****
+AK****
+20*****61
+BAŞARISIZ / FAIL
+11
+BE****
+AK****
+20*****59
+BAŞARISIZ / FAIL
+12
+FU**** EM****
+AK****
+20*****08
+BAŞARISIZ / FAIL
+13
+GÜ****
+AK****
+20*****58
+BAŞARISIZ / FAIL
+14
+İB****
+AK****
+20*****51
+BAŞARISIZ / FAIL
+15
+MU****
+AK****
+18*****64
+BAŞARISIZ / FAIL
+16
+OĞ****
+AK****
+20*****23
+BAŞARILI / PASS
+17
+ÖZ****
+AK****
+20*****32
+BAŞARISIZ / FAIL
+18
+SE****
+AK****
+20*****23
+BAŞARILI / PASS
+19
+Sİ****
+AK****
+20*****52
+BAŞARISIZ / FAIL
+20
+TÜ****
+AK****
+20*****50
+BAŞARISIZ / FAIL
+21
+UY****
+AK****
+20*****20
+BAŞARISIZ / FAIL
+22
+YU****
+AK****
+19*****75
+BAŞARISIZ / FAIL
+23
+YU****
+AK****
+20*****81
+BAŞARISIZ / FAIL
+24
+AB****
+AL****
+20*****29
+BAŞARILI / PASS
+25
+AH**** AR****
+AL****
+20*****24
+BAŞARISIZ / FAIL
+26
+BU****
+AL****
+20*****28
+BAŞARISIZ / FAIL
+27
+CE****
+AL****
+20*****05
+BAŞARISIZ / FAIL
+28
+DA****
+AL****
+20*****42
+BAŞARISIZ / FAIL
+29
+HA****
+AL****
+20*****45
+BAŞARISIZ / FAIL
+30
+MU****
+AL****
+20*****06
+BAŞARISIZ / FAIL
+31
+MU****
+AL****
+20*****21
+BAŞARISIZ / FAIL
+32
+MU****
+AL****
+20*****31
+BAŞARISIZ / FAIL
+33
+ÖZ****
+AL****
+20*****16
+BAŞARISIZ / FAIL
+34
+YA****
+AL****
+20*****23
+BAŞARISIZ / FAIL
+35
+EF****
+AP****
+20*****96
+BAŞARISIZ / FAIL
+36
+TO****
+AP****
+20*****75
+BAŞARISIZ / FAIL
+37
+BA****
+AR****
+20*****07
+BAŞARISIZ / FAIL
+38
+BE****
+AR****
+20*****08
+BAŞARISIZ / FAIL
+39
+ÇA****
+AR****
+20*****68
+BAŞARISIZ / FAIL
+40
+DO****
+AR****
+20*****03
+BAŞARISIZ / FAIL
+41
+ER****
+AR****
+20*****38
+BAŞARISIZ / FAIL
+42
+ER****
+AR****
+20*****49
+BAŞARISIZ / FAIL
+43
+GÖ****
+AR****
+20*****38
+BAŞARILI / PASS
+44
+HÜ****
+AR****
+20*****36
+BAŞARISIZ / FAIL
+45
+İL****
+AR****
+20*****12
+BAŞARISIZ / FAIL
+46
+MA**** AH****
+AR****
+20*****13
+BAŞARISIZ / FAIL
+47
+NU**** BE****
+AR****
+20*****09
+BAŞARISIZ / FAIL
+48
+SE****
+AR****
+20*****71
+BAŞARILI / PASS
+49
+AY****
+AS****
+20*****15
+BAŞARILI / PASS
+50
+Sİ****
+AS****
+20*****39
+BAŞARILI / PASS
+51
+SA**** NU****
+AŞ****
+20*****82
+BAŞARISIZ / FAIL
+52
+BÜ****
+AT****
+20*****73
+BAŞARISIZ / FAIL
+53
+OĞ**** AN****
+AT****
+20*****72
+BAŞARISIZ / FAIL
+54
+SÜ****
+AT****
+20*****20
+BAŞARISIZ / FAIL
+55
+DA**** CA****
+AV****
+20*****55
+BAŞARISIZ / FAIL
+56
+ED****
+AV****
+20*****73
+BAŞARISIZ / FAIL
+57
+AR**** ER****
+AY****
+20*****35
+BAŞARISIZ / FAIL
+58
+BA****
+AY****
+20*****44
+BAŞARISIZ / FAIL
+59
+BÜ****
+AY****
+20*****40
+BAŞARISIZ / FAIL
+60
+EC****
+AY****
+20*****47
+BAŞARISIZ / FAIL
+61
+GE**** AR****
+AY****
+20*****45
+BAŞARISIZ / FAIL
+62
+MU****
+AY****
+19*****18
+BAŞARISIZ / FAIL
+63
+OR****
+AY****
+20*****69
+BAŞARISIZ / FAIL
+64
+AB****
+BA****
+19*****99
+BAŞARISIZ / FAIL
+65
+AY****
+BA****
+20*****61
+BAŞARISIZ / FAIL
+66
+BA****
+BA****
+20*****98
+BAŞARISIZ / FAIL
+67
+BE****
+BA****
+20*****37
+BAŞARISIZ / FAIL
+68
+BU****
+BA****
+20*****13
+BAŞARISIZ / FAIL
+69
+EF****
+BA****
+20*****43
+BAŞARISIZ / FAIL
+70
+EG****
+BA****
+20*****24
+BAŞARISIZ / FAIL
+71
+EN****
+BA****
+20*****82
+BAŞARISIZ / FAIL
+72
+EY****
+BA****
+19*****92
+BAŞARISIZ / FAIL
+73
+GA****
+BA****
+20*****37
+BAŞARISIZ / FAIL
+74
+GÖ****
+BA****
+20*****83
+BAŞARILI / PASS
+75
+İR**** EM****
+BA****
+20*****39
+BAŞARISIZ / FAIL
+76
+ME****
+BA****
+20*****57
+BAŞARISIZ / FAIL
+77
+ME****
+BA****
+20*****05
+BAŞARISIZ / FAIL
+78
+ME**** AL****
+BA****
+20*****68
+BAŞARISIZ / FAIL
+79
+ME**** Cİ****
+BA****
+20*****16
+BAŞARISIZ / FAIL
+80
+ME**** RA****
+BA****
+20*****49
+BAŞARILI / PASS
+81
+NU**** Çİ****
+BA****
+20*****25
+BAŞARILI / PASS
+82
+Sİ****
+BA****
+20*****31
+BAŞARISIZ / FAIL
+83
+ZE**** SA****
+BA****
+20*****52
+BAŞARISIZ / FAIL
+84
+AY****
+BE****
+20*****06
+BAŞARISIZ / FAIL
+85
+BE****
+BE****
+20*****47
+BAŞARISIZ / FAIL
+86
+EM****
+BE****
+20*****78
+BAŞARISIZ / FAIL
+87
+MU****
+BE****
+19*****08
+BAŞARILI / PASS
+88
+MU**** ME****
+BE****
+20*****07
+BAŞARISIZ / FAIL
+89
+ÖM**** FA****
+BE****
+20*****13
+BAŞARILI / PASS
+90
+SE****
+BE****
+20*****31
+BAŞARISIZ / FAIL
+91
+SE****
+BE****
+20*****02
+BAŞARISIZ / FAIL
+92
+EN****
+Bİ****
+20*****52
+BAŞARILI / PASS
+93
+Mİ****
+Bİ****
+19*****24
+BAŞARISIZ / FAIL
+94
+YA****
+Bİ****
+20*****08
+BAŞARILI / PASS
+95
+AZ****
+BO****
+20*****30
+BAŞARISIZ / FAIL
+96
+İR****
+BO****
+20*****03
+BAŞARISIZ / FAIL
+97
+SE****
+BO****
+20*****18
+BAŞARILI / PASS
+98
+YA****
+BO****
+20*****39
+BAŞARISIZ / FAIL
+99
+FA****
+BÖ****
+20*****38
+BAŞARISIZ / FAIL
+100
+SE****
+BU****
+20*****39
+BAŞARISIZ / FAIL
+101
+ES****
+BÜ****
+20*****48
+BAŞARILI / PASS
+102
+BA****
+CA****
+20*****09
+BAŞARISIZ / FAIL
+103
+ÇA****
+CA****
+20*****73
+BAŞARILI / PASS
+104
+MU**** BE****
+CA****
+20*****32
+BAŞARISIZ / FAIL
+105
+ER****
+CE****
+20*****43
+BAŞARISIZ / FAIL
+106
+Nİ****
+CE****
+20*****71
+BAŞARISIZ / FAIL
+107
+AS****
+Cİ****
+20*****38
+BAŞARILI / PASS
+108
+BU****
+Cİ****
+20*****20
+BAŞARILI / PASS
+109
+EN****
+CO****
+20*****23
+BAŞARISIZ / FAIL
+110
+BE****
+ÇA****
+20*****27
+BAŞARILI / PASS
+111
+BO****
+ÇA****
+20*****39
+BAŞARISIZ / FAIL
+112
+ÇA****
+ÇA****
+20*****18
+BAŞARISIZ / FAIL
+113
+EB****
+ÇA****
+20*****68
+BAŞARISIZ / FAIL
+114
+EG****
+ÇA****
+20*****20
+BAŞARISIZ / FAIL
+115
+EL****
+ÇA****
+20*****77
+BAŞARISIZ / FAIL
+116
+FA****
+ÇA****
+20*****35
+BAŞARISIZ / FAIL
+117
+FA**** NU****
+ÇA****
+20*****94
+BAŞARISIZ / FAIL
+118
+FU****
+ÇA****
+20*****42
+BAŞARILI / PASS
+119
+Yİ****
+ÇA****
+20*****05
+BAŞARILI / PASS
+120
+AH**** FA****
+ÇE****
+20*****54
+BAŞARISIZ / FAIL
+121
+AY****
+ÇE****
+19*****40
+BAŞARISIZ / FAIL
+122
+AZ****
+ÇE****
+20*****56
+BAŞARISIZ / FAIL
+123
+BE****
+ÇE****
+20*****84
+BAŞARISIZ / FAIL
+124
+DE**** TO****
+ÇE****
+20*****66
+BAŞARISIZ / FAIL
+125
+Dİ**** CE****
+ÇE****
+20*****79
+BAŞARILI / PASS
+126
+EB****
+ÇE****
+20*****63
+BAŞARISIZ / FAIL
+127
+ER****
+ÇE****
+20*****70
+BAŞARILI / PASS
+128
+EY****
+ÇE****
+19*****22
+BAŞARISIZ / FAIL
+129
+Gİ****
+ÇE****
+20*****61
+BAŞARISIZ / FAIL
+130
+İB**** CE****
+ÇE****
+20*****58
+BAŞARISIZ / FAIL
+131
+İR**** RA****
+ÇE****
+20*****09
+BAŞARILI / PASS
+132
+MA**** ÇA****
+ÇE****
+20*****57
+BAŞARISIZ / FAIL
+133
+MU**** BU****
+ÇE****
+20*****35
+BAŞARISIZ / FAIL
+134
+RE****
+ÇE****
+20*****25
+BAŞARILI / PASS
+135
+RE****
+ÇE****
+20*****32
+BAŞARISIZ / FAIL
+136
+SA****
+ÇI****
+20*****92
+BAŞARISIZ / FAIL
+137
+AR****
+Çİ****
+20*****47
+BAŞARILI / PASS
+138
+HA****
+Çİ****
+20*****46
+BAŞARISIZ / FAIL
+139
+RE**** BE****
+Çİ****
+20*****22
+BAŞARILI / PASS
+140
+TU****
+Çİ****
+20*****14
+BAŞARISIZ / FAIL
+141
+EM****
+ÇO****
+20*****39
+BAŞARILI / PASS
+142
+OS**** CA****
+ÇO****
+20*****57
+BAŞARISIZ / FAIL
+143
+ER****
+ÇÖ****
+20*****39
+BAŞARISIZ / FAIL
+144
+YA****
+ÇÖ****
+20*****37
+BAŞARILI / PASS
+145
+AY**** NU****
+DA****
+20*****21
+BAŞARILI / PASS
+146
+BE****
+DA****
+20*****42
+BAŞARISIZ / FAIL
+147
+KA**** BE****
+DA****
+20*****33
+BAŞARILI / PASS
+148
+MA**** EF****
+DA****
+20*****74
+BAŞARISIZ / FAIL
+149
+SÜ****
+DA****
+20*****46
+BAŞARISIZ / FAIL
+150
+AM****
+DE****
+19*****21
+BAŞARISIZ / FAIL
+151
+BA****
+DE****
+BAŞARISIZ / FAIL
+152
+BE****
+DE****
+20*****00
+BAŞARISIZ / FAIL
+153
+BU****
+DE****
+20*****18
+BAŞARILI / PASS
+154
+CA****
+DE****
+20*****26
+BAŞARISIZ / FAIL
+155
+DE****
+DE****
+20*****68
+BAŞARILI / PASS
+156
+Dİ****
+DE****
+20*****20
+BAŞARISIZ / FAIL
+157
+İB**** FU****
+DE****
+20*****36
+BAŞARILI / PASS
+158
+LE****
+DE****
+20*****63
+BAŞARISIZ / FAIL
+159
+ME****
+DE****
+20*****63
+BAŞARISIZ / FAIL
+160
+ÖM****
+DE****
+20*****12
+BAŞARISIZ / FAIL
+161
+ÖZ****
+DE****
+20*****38
+BAŞARISIZ / FAIL
+162
+SE****
+DE****
+20*****02
+BAŞARISIZ / FAIL
+163
+SU****
+DE****
+20*****14
+BAŞARILI / PASS
+164
+YA****
+DE****
+20*****86
+BAŞARILI / PASS
+165
+YE**** ME****
+DE****
+20*****32
+BAŞARISIZ / FAIL
+166
+Yİ**** EM****
+DE****
+20*****46
+BAŞARISIZ / FAIL
+167
+EL**** İL****
+Dİ****
+20*****60
+BAŞARISIZ / FAIL
+168
+GÖ****
+Dİ****
+20*****15
+BAŞARISIZ / FAIL
+169
+NE****
+Dİ****
+20*****25
+BAŞARISIZ / FAIL
+170
+SE****
+Dİ****
+20*****34
+BAŞARILI / PASS
+171
+EM****
+DO****
+20*****10
+BAŞARISIZ / FAIL
+172
+FA****
+DO****
+20*****99
+BAŞARISIZ / FAIL
+173
+GÜ**** ME****
+DO****
+20*****56
+BAŞARISIZ / FAIL
+174
+AL****
+DU****
+20*****36
+BAŞARISIZ / FAIL
+175
+AL**** ER****
+DU****
+20*****82
+BAŞARISIZ / FAIL
+176
+BE****
+DU****
+20*****67
+BAŞARISIZ / FAIL
+177
+BU**** ÖY****
+DU****
+20*****59
+BAŞARISIZ / FAIL
+178
+EM****
+DU****
+20*****94
+BAŞARISIZ / FAIL
+179
+ME****
+DU****
+20*****20
+BAŞARISIZ / FAIL
+180
+MU**** SA****
+DU****
+20*****63
+BAŞARISIZ / FAIL
+181
+SE****
+DU****
+20*****63
+BAŞARISIZ / FAIL
+182
+Bİ**** ME****
+DÜ****
+20*****07
+BAŞARISIZ / FAIL
+183
+ME****
+EF****
+20*****52
+BAŞARISIZ / FAIL
+184
+PI****
+EF****
+19*****79
+BAŞARISIZ / FAIL
+185
+BE****
+EK****
+20*****61
+BAŞARILI / PASS
+186
+DE**** BO****
+EK****
+20*****79
+BAŞARISIZ / FAIL
+187
+Dİ****
+EK****
+20*****21
+BAŞARISIZ / FAIL
+188
+KÜ****
+EK****
+20*****55
+BAŞARILI / PASS
+189
+MU****
+EK****
+20*****02
+BAŞARISIZ / FAIL
+190
+ZE****
+EK****
+20*****52
+BAŞARISIZ / FAIL
+191
+EM****
+EL****
+20*****65
+BAŞARISIZ / FAIL
+192
+SE****
+EL****
+18*****86
+BAŞARILI / PASS
+193
+BE****
+EM****
+20*****72
+BAŞARISIZ / FAIL
+194
+SE****
+EN****
+20*****54
+BAŞARISIZ / FAIL
+195
+BE****
+ER****
+20*****19
+BAŞARISIZ / FAIL
+196
+DU****
+ER****
+20*****65
+BAŞARILI / PASS
+197
+ER****
+ER****
+20*****04
+BAŞARILI / PASS
+198
+İB**** ME****
+ER****
+20*****31
+BAŞARISIZ / FAIL
+199
+LE****
+ER****
+20*****44
+BAŞARILI / PASS
+200
+ÖY****
+ER****
+20*****23
+BAŞARISIZ / FAIL
+201
+PO****
+ER****
+20*****49
+BAŞARILI / PASS
+202
+SE****
+ER****
+20*****41
+BAŞARILI / PASS
+203
+ÜS****
+ER****
+20*****12
+BAŞARISIZ / FAIL
+204
+ZE****
+ER****
+20*****84
+BAŞARISIZ / FAIL
+205
+EM****
+ES****
+20*****67
+BAŞARISIZ / FAIL
+206
+FU**** SA****
+EV****
+20*****92
+BAŞARILI / PASS
+207
+AY**** TU****
+GA****
+20*****43
+BAŞARISIZ / FAIL
+208
+AL**** HA****
+GE****
+20*****17
+BAŞARISIZ / FAIL
+209
+Cİ****
+GE****
+20*****51
+BAŞARISIZ / FAIL
+210
+NE****
+GE****
+20*****59
+BAŞARISIZ / FAIL
+211
+ÖM**** FA****
+GE****
+20*****61
+BAŞARILI / PASS
+212
+Sİ****
+GE****
+20*****51
+BAŞARILI / PASS
+213
+AR**** AY****
+Gİ****
+20*****22
+BAŞARILI / PASS
+214
+BE****
+Gİ****
+20*****59
+BAŞARISIZ / FAIL
+215
+AH****
+GÖ****
+20*****84
+BAŞARILI / PASS
+216
+HA****
+GÖ****
+20*****09
+BAŞARILI / PASS
+217
+AB****
+GÜ****
+20*****13
+BAŞARILI / PASS
+218
+AL**** KA****
+GÜ****
+19*****32
+BAŞARILI / PASS
+219
+BE**** SU****
+GÜ****
+20*****58
+BAŞARISIZ / FAIL
+220
+BU****
+GÜ****
+20*****47
+BAŞARILI / PASS
+221
+CE****
+GÜ****
+20*****04
+BAŞARILI / PASS
+222
+CE**** BA****
+GÜ****
+20*****41
+BAŞARISIZ / FAIL
+223
+DE****
+GÜ****
+20*****60
+BAŞARILI / PASS
+224
+DU****
+GÜ****
+20*****00
+BAŞARISIZ / FAIL
+225
+EC****
+GÜ****
+20*****91
+BAŞARILI / PASS
+226
+ER****
+GÜ****
+20*****04
+BAŞARISIZ / FAIL
+227
+GA****
+GÜ****
+20*****56
+BAŞARISIZ / FAIL
+228
+Hİ****
+GÜ****
+20*****63
+BAŞARISIZ / FAIL
+229
+ME****
+GÜ****
+20*****28
+BAŞARILI / PASS
+230
+ME****
+GÜ****
+20*****06
+BAŞARISIZ / FAIL
+231
+Nİ**** CE****
+GÜ****
+20*****45
+BAŞARILI / PASS
+232
+ÖM****
+GÜ****
+20*****02
+BAŞARISIZ / FAIL
+233
+SE****
+GÜ****
+20*****10
+BAŞARILI / PASS
+234
+SE****
+GÜ****
+20*****08
+BAŞARILI / PASS
+235
+ŞE****
+GÜ****
+20*****87
+BAŞARILI / PASS
+236
+ÜM****
+GÜ****
+20*****66
+BAŞARISIZ / FAIL
+237
+YA****
+GÜ****
+20*****45
+BAŞARILI / PASS
+238
+YA**** ES****
+GÜ****
+20*****28
+BAŞARISIZ / FAIL
+239
+YU****
+GÜ****
+20*****83
+BAŞARILI / PASS
+240
+ÇA****
+HA****
+20*****96
+BAŞARILI / PASS
+241
+ÇA**** EY****
+HA****
+20*****55
+BAŞARISIZ / FAIL
+242
+İR****
+HA****
+20*****99
+BAŞARISIZ / FAIL
+243
+MU**** TA****
+HA****
+19*****84
+BAŞARISIZ / FAIL
+244
+BE****
+HE****
+20*****41
+BAŞARILI / PASS
+245
+EF****
+HE****
+20*****17
+BAŞARISIZ / FAIL
+246
+FA**** BU****
+HE****
+20*****95
+BAŞARISIZ / FAIL
+247
+ME****
+HI****
+20*****95
+BAŞARISIZ / FAIL
+248
+YA****
+HU****
+20*****20
+BAŞARISIZ / FAIL
+249
+İH**** BU****
+İL****
+20*****03
+BAŞARISIZ / FAIL
+250
+AS****
+İN****
+20*****62
+BAŞARISIZ / FAIL
+251
+SE****
+İN****
+20*****72
+BAŞARISIZ / FAIL
+252
+BA****
+İŞ****
+20*****48
+BAŞARISIZ / FAIL
+253
+ME**** AL****
+İŞ****
+20*****04
+BAŞARISIZ / FAIL
+254
+UT****
+İZ****
+20*****87
+BAŞARILI / PASS
+255
+AH**** UĞ****
+KA****
+20*****30
+BAŞARILI / PASS
+256
+AS****
+KA****
+20*****79
+BAŞARILI / PASS
+257
+BE****
+KA****
+20*****62
+BAŞARILI / PASS
+258
+BE****
+KA****
+20*****09
+BAŞARISIZ / FAIL
+259
+ÇE****
+KA****
+20*****27
+BAŞARISIZ / FAIL
+260
+EF****
+KA****
+20*****10
+BAŞARISIZ / FAIL
+261
+EG****
+KA****
+20*****01
+BAŞARISIZ / FAIL
+262
+EL****
+KA****
+20*****36
+BAŞARILI / PASS
+263
+EL****
+KA****
+20*****82
+BAŞARILI / PASS
+264
+EL**** NU****
+KA****
+20*****83
+BAŞARISIZ / FAIL
+265
+EM****
+KA****
+20*****21
+BAŞARISIZ / FAIL
+266
+EN****
+KA****
+20*****22
+BAŞARISIZ / FAIL
+267
+İB****
+KA****
+20*****69
+BAŞARISIZ / FAIL
+268
+KA****
+KA****
+20*****97
+BAŞARILI / PASS
+269
+KE****
+KA****
+20*****20
+BAŞARISIZ / FAIL
+270
+KU****
+KA****
+20*****08
+BAŞARILI / PASS
+271
+ME****
+KA****
+20*****26
+BAŞARILI / PASS
+272
+ME****
+KA****
+20*****24
+BAŞARILI / PASS
+273
+ME****
+KA****
+20*****40
+BAŞARILI / PASS
+274
+ME**** CA****
+KA****
+20*****30
+BAŞARILI / PASS
+275
+NE****
+KA****
+20*****14
+BAŞARISIZ / FAIL
+276
+OS**** BE****
+KA****
+20*****50
+BAŞARILI / PASS
+277
+ÖZ****
+KA****
+20*****33
+BAŞARISIZ / FAIL
+278
+ÖZ****
+KA****
+20*****88
+BAŞARISIZ / FAIL
+279
+SE****
+KA****
+20*****34
+BAŞARISIZ / FAIL
+280
+SE****
+KA****
+20*****28
+BAŞARISIZ / FAIL
+281
+SE****
+KA****
+20*****54
+BAŞARISIZ / FAIL
+282
+ŞE****
+KA****
+20*****50
+BAŞARISIZ / FAIL
+283
+ŞE****
+KA****
+20*****78
+BAŞARISIZ / FAIL
+284
+TO****
+KA****
+20*****93
+BAŞARISIZ / FAIL
+285
+TU****
+KA****
+20*****30
+BAŞARISIZ / FAIL
+286
+YU**** EM****
+KA****
+20*****02
+BAŞARISIZ / FAIL
+287
+ÇA****
+KE****
+20*****88
+BAŞARILI / PASS
+288
+Dİ****
+KE****
+20*****44
+BAŞARILI / PASS
+289
+DU****
+KE****
+20*****77
+BAŞARISIZ / FAIL
+290
+Hİ****
+KE****
+20*****23
+BAŞARISIZ / FAIL
+291
+İK**** CE****
+KE****
+20*****59
+BAŞARISIZ / FAIL
+292
+AL**** EK****
+KI****
+20*****91
+BAŞARILI / PASS
+293
+AY****
+KI****
+20*****29
+BAŞARISIZ / FAIL
+294
+CE****
+KI****
+20*****80
+BAŞARISIZ / FAIL
+295
+ME**** CA****
+KI****
+20*****31
+BAŞARISIZ / FAIL
+296
+SE****
+KI****
+20*****36
+BAŞARISIZ / FAIL
+297
+SE****
+KI****
+20*****68
+BAŞARISIZ / FAIL
+298
+YU****
+KI****
+19*****89
+BAŞARISIZ / FAIL
+299
+BE****
+Kİ****
+20*****09
+BAŞARISIZ / FAIL
+300
+DO****
+Kİ****
+20*****34
+BAŞARISIZ / FAIL
+301
+FE****
+Kİ****
+20*****17
+BAŞARISIZ / FAIL
+302
+BA****
+KO****
+20*****61
+BAŞARISIZ / FAIL
+303
+BE****
+KO****
+18*****04
+BAŞARISIZ / FAIL
+304
+BU**** GÜ****
+KO****
+20*****85
+BAŞARISIZ / FAIL
+305
+EM****
+KO****
+20*****14
+BAŞARILI / PASS
+306
+EM****
+KO****
+20*****35
+BAŞARILI / PASS
+307
+ES****
+KO****
+19*****52
+BAŞARILI / PASS
+308
+ES****
+KO****
+20*****11
+BAŞARILI / PASS
+309
+Gİ****
+KO****
+20*****07
+BAŞARILI / PASS
+310
+MU****
+KO****
+20*****80
+BAŞARISIZ / FAIL
+311
+SE****
+KO****
+20*****67
+BAŞARILI / PASS
+312
+ME****
+KÖ****
+20*****18
+BAŞARILI / PASS
+313
+SE****
+KÖ****
+20*****18
+BAŞARISIZ / FAIL
+314
+YE****
+KÖ****
+20*****10
+BAŞARISIZ / FAIL
+315
+BU****
+KU****
+20*****33
+BAŞARISIZ / FAIL
+316
+EG****
+KU****
+20*****69
+BAŞARILI / PASS
+317
+EG**** KA****
+KU****
+20*****03
+BAŞARISIZ / FAIL
+318
+GÜ****
+KU****
+20*****01
+BAŞARISIZ / FAIL
+319
+İS**** HA****
+KU****
+20*****55
+BAŞARISIZ / FAIL
+320
+ÖZ****
+KU****
+20*****20
+BAŞARISIZ / FAIL
+321
+PI****
+KU****
+20*****80
+BAŞARILI / PASS
+322
+FE****
+KÜ****
+20*****40
+BAŞARISIZ / FAIL
+323
+BE****
+LA****
+20*****04
+BAŞARISIZ / FAIL
+324
+BE****
+MA****
+20*****24
+BAŞARISIZ / FAIL
+325
+EM****
+MA****
+20*****59
+BAŞARILI / PASS
+326
+KA****
+MA****
+20*****09
+BAŞARISIZ / FAIL
+327
+AY****
+ME****
+20*****16
+BAŞARISIZ / FAIL
+328
+BE****
+ME****
+20*****15
+BAŞARISIZ / FAIL
+329
+MA**** SA****
+ME****
+20*****57
+BAŞARILI / PASS
+330
+Mİ****
+ME****
+20*****36
+BAŞARISIZ / FAIL
+331
+ON****
+MU****
+20*****54
+BAŞARISIZ / FAIL
+332
+ER**** BU****
+MÜ****
+20*****65
+BAŞARISIZ / FAIL
+333
+ÖZ****
+NU****
+20*****59
+BAŞARILI / PASS
+334
+FU****
+OK****
+20*****74
+BAŞARISIZ / FAIL
+335
+ÖZ**** CA****
+OK****
+19*****56
+BAŞARILI / PASS
+336
+ÇA****
+OR****
+20*****13
+BAŞARISIZ / FAIL
+337
+TU****
+OR****
+20*****36
+BAŞARILI / PASS
+338
+AL****
+OS****
+20*****57
+BAŞARISIZ / FAIL
+339
+SÜ****
+OY****
+20*****42
+BAŞARILI / PASS
+340
+BU****
+ÖĞ****
+20*****72
+BAŞARISIZ / FAIL
+341
+ED**** NU****
+ÖN****
+20*****64
+BAŞARILI / PASS
+342
+EN****
+ÖN****
+20*****42
+BAŞARISIZ / FAIL
+343
+Hİ****
+ÖN****
+20*****56
+BAŞARISIZ / FAIL
+344
+YA****
+ÖN****
+20*****05
+BAŞARISIZ / FAIL
+345
+AL****
+ÖZ****
+20*****12
+BAŞARISIZ / FAIL
+346
+AL**** EZ****
+ÖZ****
+20*****06
+BAŞARILI / PASS
+347
+AN****
+ÖZ****
+20*****53
+BAŞARILI / PASS
+348
+AT****
+ÖZ****
+20*****52
+BAŞARISIZ / FAIL
+349
+AY****
+ÖZ****
+20*****77
+BAŞARILI / PASS
+350
+BE****
+ÖZ****
+20*****98
+BAŞARILI / PASS
+351
+BE****
+ÖZ****
+20*****16
+BAŞARISIZ / FAIL
+352
+BE**** EM****
+ÖZ****
+18*****13
+BAŞARILI / PASS
+353
+BU****
+ÖZ****
+20*****26
+BAŞARISIZ / FAIL
+354
+CE****
+ÖZ****
+20*****18
+BAŞARISIZ / FAIL
+355
+DE****
+ÖZ****
+20*****12
+BAŞARILI / PASS
+356
+DU****
+ÖZ****
+20*****76
+BAŞARISIZ / FAIL
+357
+EC****
+ÖZ****
+20*****36
+BAŞARISIZ / FAIL
+358
+EC****
+ÖZ****
+20*****15
+BAŞARISIZ / FAIL
+359
+EG**** AY****
+ÖZ****
+20*****48
+BAŞARISIZ / FAIL
+360
+EL****
+ÖZ****
+20*****26
+BAŞARISIZ / FAIL
+361
+EM****
+ÖZ****
+20*****39
+BAŞARISIZ / FAIL
+362
+ER****
+ÖZ****
+20*****13
+BAŞARISIZ / FAIL
+363
+ER****
+ÖZ****
+20*****27
+BAŞARISIZ / FAIL
+364
+EZ****
+ÖZ****
+20*****14
+BAŞARISIZ / FAIL
+365
+FA****
+ÖZ****
+20*****29
+BAŞARILI / PASS
+366
+FA**** SÜ****
+ÖZ****
+20*****06
+BAŞARISIZ / FAIL
+367
+İB**** ÖM****
+ÖZ****
+20*****25
+BAŞARISIZ / FAIL
+368
+ME****
+ÖZ****
+20*****28
+BAŞARISIZ / FAIL
+369
+SE****
+ÖZ****
+20*****58
+BAŞARISIZ / FAIL
+370
+SE****
+ÖZ****
+20*****36
+BAŞARISIZ / FAIL
+371
+SÜ****
+ÖZ****
+20*****32
+BAŞARILI / PASS
+372
+UM****
+ÖZ****
+20*****77
+BAŞARISIZ / FAIL
+373
+ÜN****
+ÖZ****
+20*****61
+BAŞARISIZ / FAIL
+374
+ZE****
+ÖZ****
+20*****34
+BAŞARILI / PASS
+375
+BO****
+PA****
+20*****25
+BAŞARILI / PASS
+376
+EB****
+PA****
+20*****14
+BAŞARISIZ / FAIL
+377
+VA****
+PA****
+20*****33
+BAŞARILI / PASS
+378
+YA****
+PA****
+20*****50
+BAŞARISIZ / FAIL
+379
+DO****
+PE****
+20*****57
+BAŞARISIZ / FAIL
+380
+UT****
+PE****
+20*****56
+BAŞARISIZ / FAIL
+381
+AR****
+Pİ****
+20*****41
+BAŞARISIZ / FAIL
+382
+MU**** CA****
+PO****
+20*****87
+BAŞARISIZ / FAIL
+383
+AH**** KA****
+SA****
+20*****30
+BAŞARISIZ / FAIL
+384
+AL****
+SA****
+20*****95
+BAŞARISIZ / FAIL
+385
+AY****
+SA****
+20*****54
+BAŞARISIZ / FAIL
+386
+EM**** CA****
+SA****
+20*****33
+BAŞARISIZ / FAIL
+387
+GÖ****
+SA****
+20*****95
+BAŞARISIZ / FAIL
+388
+İK****
+SA****
+20*****06
+BAŞARISIZ / FAIL
+389
+İL****
+SA****
+20*****31
+BAŞARILI / PASS
+390
+İR****
+SA****
+20*****32
+BAŞARILI / PASS
+391
+JÜ**** BE****
+SA****
+20*****27
+BAŞARISIZ / FAIL
+392
+LE****
+SA****
+20*****44
+BAŞARISIZ / FAIL
+393
+NE**** RO****
+SA****
+20*****79
+BAŞARISIZ / FAIL
+394
+Nİ****
+SA****
+20*****40
+BAŞARILI / PASS
+395
+Nİ****
+SA****
+20*****84
+BAŞARILI / PASS
+396
+Nİ**** NU****
+SA****
+20*****26
+BAŞARILI / PASS
+397
+OK****
+SA****
+20*****78
+BAŞARISIZ / FAIL
+398
+SA****
+SA****
+20*****88
+BAŞARISIZ / FAIL
+399
+YU****
+SA****
+20*****19
+BAŞARISIZ / FAIL
+400
+CE**** GÖ****
+SE****
+20*****63
+BAŞARISIZ / FAIL
+401
+EC****
+SE****
+20*****86
+BAŞARILI / PASS
+402
+EM****
+SE****
+20*****07
+BAŞARISIZ / FAIL
+403
+EY****
+SE****
+20*****55
+BAŞARISIZ / FAIL
+404
+HA**** KA****
+SE****
+20*****62
+BAŞARISIZ / FAIL
+405
+ŞE****
+SE****
+19*****76
+BAŞARISIZ / FAIL
+406
+UT****
+SE****
+20*****54
+BAŞARILI / PASS
+407
+ÜM****
+SE****
+20*****78
+BAŞARILI / PASS
+408
+VE****
+SE****
+20*****29
+BAŞARISIZ / FAIL
+409
+Yİ****
+SE****
+20*****17
+BAŞARILI / PASS
+410
+YU****
+SE****
+20*****72
+BAŞARISIZ / FAIL
+411
+EM**** YÜ****
+SI****
+19*****82
+BAŞARISIZ / FAIL
+412
+AT****
+Sİ****
+20*****27
+BAŞARILI / PASS
+413
+BE**** AK****
+Sİ****
+20*****44
+BAŞARISIZ / FAIL
+414
+FU****
+Sİ****
+20*****53
+BAŞARISIZ / FAIL
+415
+ME****
+Sİ****
+20*****34
+BAŞARILI / PASS
+416
+EM**** SU****
+SO****
+20*****28
+BAŞARILI / PASS
+417
+BE****
+SÖ****
+19*****46
+BAŞARILI / PASS
+418
+Hİ****
+SÖ****
+20*****09
+BAŞARILI / PASS
+419
+BE**** UL****
+SU****
+10*****43
+BAŞARISIZ / FAIL
+420
+EC****
+SÜ****
+20*****45
+BAŞARISIZ / FAIL
+421
+EL****
+SÜ****
+20*****05
+BAŞARILI / PASS
+422
+ME****
+SÜ****
+20*****14
+BAŞARISIZ / FAIL
+423
+ZE**** DE****
+SÜ****
+20*****58
+BAŞARILI / PASS
+424
+BU****
+ŞA****
+20*****27
+BAŞARISIZ / FAIL
+425
+ME****
+ŞA****
+20*****41
+BAŞARISIZ / FAIL
+426
+ME****
+ŞA****
+20*****17
+BAŞARISIZ / FAIL
+427
+SE****
+ŞA****
+20*****30
+BAŞARISIZ / FAIL
+428
+Yİ**** KA****
+ŞA****
+20*****78
+BAŞARISIZ / FAIL
+429
+BE****
+ŞE****
+20*****13
+BAŞARISIZ / FAIL
+430
+EL****
+ŞE****
+20*****35
+BAŞARILI / PASS
+431
+Nİ****
+ŞE****
+20*****37
+BAŞARISIZ / FAIL
+432
+ER****
+Şİ****
+20*****72
+BAŞARISIZ / FAIL
+433
+BE****
+TA****
+20*****19
+BAŞARILI / PASS
+434
+GA****
+TA****
+19*****68
+BAŞARISIZ / FAIL
+435
+HÜ****
+TA****
+20*****69
+BAŞARISIZ / FAIL
+436
+ME****
+TA****
+20*****35
+BAŞARISIZ / FAIL
+437
+ZE**** HE****
+TA****
+20*****66
+BAŞARILI / PASS
+438
+AN****
+TE****
+20*****17
+BAŞARILI / PASS
+439
+AS**** ÖY****
+TE****
+20*****18
+BAŞARISIZ / FAIL
+440
+İR**** SE****
+TE****
+20*****31
+BAŞARILI / PASS
+441
+ME****
+TE****
+20*****55
+BAŞARILI / PASS
+442
+SU****
+TE****
+20*****56
+BAŞARISIZ / FAIL
+443
+YI****
+TE****
+20*****99
+BAŞARILI / PASS
+444
+ÖZ**** NU**** ME****
+Tİ****
+20*****17
+BAŞARILI / PASS
+445
+Cİ****
+TO****
+20*****75
+BAŞARILI / PASS
+446
+FU**** UT****
+TO****
+20*****33
+BAŞARISIZ / FAIL
+447
+ME****
+TO****
+20*****39
+BAŞARISIZ / FAIL
+448
+NA****
+TO****
+19*****73
+BAŞARILI / PASS
+449
+PI****
+TO****
+18*****56
+BAŞARISIZ / FAIL
+450
+BE****
+TU****
+20*****64
+BAŞARILI / PASS
+451
+EM****
+TU****
+20*****28
+BAŞARISIZ / FAIL
+452
+GÖ****
+TU****
+20*****15
+BAŞARISIZ / FAIL
+453
+ME****
+TU****
+20*****27
+BAŞARISIZ / FAIL
+454
+MU**** ER****
+TU****
+20*****35
+BAŞARISIZ / FAIL
+455
+Yİ****
+TU****
+20*****03
+BAŞARISIZ / FAIL
+456
+EM****
+TÜ****
+20*****09
+BAŞARISIZ / FAIL
+457
+ER****
+TÜ****
+20*****16
+BAŞARILI / PASS
+458
+ME****
+TÜ****
+20*****02
+BAŞARISIZ / FAIL
+459
+OĞ****
+TÜ****
+20*****02
+BAŞARISIZ / FAIL
+460
+BA****
+UÇ****
+20*****70
+BAŞARISIZ / FAIL
+461
+EL****
+UL****
+20*****22
+BAŞARISIZ / FAIL
+462
+YA**** KE****
+UM****
+20*****33
+BAŞARILI / PASS
+463
+BE****
+UN****
+20*****65
+BAŞARILI / PASS
+464
+CA**** YI****
+UN****
+20*****16
+BAŞARILI / PASS
+465
+HA****
+US****
+20*****54
+BAŞARISIZ / FAIL
+466
+Yİ****
+US****
+20*****19
+BAŞARISIZ / FAIL
+467
+ZE****
+ÜÇ****
+20*****53
+BAŞARISIZ / FAIL
+468
+EK****
+ÜL****
+20*****41
+BAŞARISIZ / FAIL
+469
+GÜ**** UY****
+ÜM****
+20*****56
+BAŞARISIZ / FAIL
+470
+BE****
+ÜN****
+20*****14
+BAŞARISIZ / FAIL
+471
+ŞE****
+ÜN****
+20*****87
+BAŞARILI / PASS
+472
+ED****
+ÜS****
+20*****89
+BAŞARILI / PASS
+473
+AH****
+ÜZ****
+20*****52
+BAŞARISIZ / FAIL
+474
+BA****
+ÜZ****
+20*****35
+BAŞARISIZ / FAIL
+475
+EL****
+ÜZ****
+20*****46
+BAŞARISIZ / FAIL
+476
+BA****
+VA****
+20*****27
+BAŞARILI / PASS
+477
+TU****
+VA****
+20*****06
+BAŞARILI / PASS
+478
+AL****
+YA****
+19*****64
+BAŞARISIZ / FAIL
+479
+EL****
+YA****
+20*****57
+BAŞARISIZ / FAIL
+480
+KA****
+YA****
+20*****74
+BAŞARISIZ / FAIL
+481
+ON****
+YA****
+20*****53
+BAŞARISIZ / FAIL
+482
+RO**** EZ****
+YA****
+20*****49
+BAŞARISIZ / FAIL
+483
+SE**** AK****
+YA****
+20*****11
+BAŞARISIZ / FAIL
+484
+AY****
+YE****
+20*****21
+BAŞARILI / PASS
+485
+FU****
+YE****
+20*****81
+BAŞARISIZ / FAIL
+486
+KA****
+YE****
+20*****09
+BAŞARISIZ / FAIL
+487
+MU**** CA****
+YE****
+20*****47
+BAŞARISIZ / FAIL
+488
+PE****
+YE****
+20*****25
+BAŞARILI / PASS
+489
+YU**** EM****
+YE****
+20*****34
+BAŞARISIZ / FAIL
+490
+AB****
+YI****
+20*****99
+BAŞARISIZ / FAIL
+491
+AL****
+YI****
+20*****07
+BAŞARISIZ / FAIL
+492
+AS****
+YI****
+20*****76
+BAŞARILI / PASS
+493
+BA**** DE****
+YI****
+20*****67
+BAŞARISIZ / FAIL
+494
+BE****
+YI****
+20*****11
+BAŞARILI / PASS
+495
+Bİ****
+YI****
+20*****44
+BAŞARISIZ / FAIL
+496
+CE****
+YI****
+20*****54
+BAŞARISIZ / FAIL
+497
+DE****
+YI****
+20*****44
+BAŞARISIZ / FAIL
+498
+Dİ****
+YI****
+19*****47
+BAŞARISIZ / FAIL
+499
+EC****
+YI****
+20*****03
+BAŞARILI / PASS
+500
+HA****
+YI****
+19*****61
+BAŞARISIZ / FAIL
+501
+ME**** EF****
+YI****
+20*****57
+BAŞARILI / PASS
+502
+NU**** ME****
+YI****
+20*****30
+BAŞARISIZ / FAIL
+503
+ÖZ****
+YI****
+20*****87
+BAŞARILI / PASS
+504
+ÖZ**** BA****
+YI****
+20*****21
+BAŞARISIZ / FAIL
+505
+SA****
+YI****
+20*****17
+BAŞARISIZ / FAIL
+506
+SA**** EF****
+YI****
+20*****50
+BAŞARILI / PASS
+507
+SE****
+YI****
+20*****20
+BAŞARISIZ / FAIL
+508
+UL****
+YI****
+20*****15
+BAŞARILI / PASS
+509
+SE****
+Yİ****
+20*****14
+BAŞARISIZ / FAIL
+510
+ZE**** ÇE****
+YO****
+20*****57
+BAŞARILI / PASS
+511
+ÇE**** BE****
+YÖ****
+20*****75
+BAŞARISIZ / FAIL
+512
+ÖZ****
+YÖ****
+20*****54
+BAŞARISIZ / FAIL
+513
+BE**** Yİ****
+YU****
+20*****38
+BAŞARISIZ / FAIL
+514
+EM****
+YU****
+20*****93
+BAŞARISIZ / FAIL
+515
+KA****
+YU****
+20*****39
+BAŞARISIZ / FAIL
+516
+ŞE****
+YU****
+20*****62
+BAŞARISIZ / FAIL
+517
+Fİ****
+YÜ****
+20*****21
+BAŞARISIZ / FAIL
+518
+ME****
+YÜ****
+18*****93
+BAŞARISIZ / FAIL
+519
+ÖY****
+YÜ****
+20*****20
+BAŞARISIZ / FAIL
+520
+EL**** SU****
+ZE****
+20*****70
+BAŞARILI / PASS
+521
+NU****
+ZE****
+20*****38
+BAŞARISIZ / FAIL
+522
+SE****
+ZE****
+20*****57
+BAŞARISIZ / FAIL
